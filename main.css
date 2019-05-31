@@ -1,0 +1,29 @@
+
+/*Classes begin here*/
+h1{
+  border: 0;
+  color: yellow;
+  font-family: URW Chancery L, cursive;
+  font-size: 70px;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+p{
+  border: 0;
+  color: yellow;
+  font-family: URW Chancery L, cursive;
+  font-size: 40px;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 10px;
+  width: 5%;
+}
